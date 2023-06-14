@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#mybtn {
+  border: none;
+  outline: none;
+  background-color: white;
+  color: coral;
+  cursor: pointer;
+  font-weight: bold;
+}
+#mybtn:hover {
+  background-color: black;
+  color: white;
+}
